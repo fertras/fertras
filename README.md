@@ -9,16 +9,16 @@ I am starting in my **Software Development** career 🚀
 
 
 👨‍💻 I am currently learning about: 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic" height="18"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=plastic" height="18"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" height="18"/>
 
 
 🤓 My goal is to know the fundamentals of these topics and specialize in Data Science 
 
 🤔 I would like to learn a little about 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic" height="18"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic" height="18"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white&style=plastic" height="18"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=plastic&logo=Apple&logoColor=white" height="18"/> 
 
 ---
 
