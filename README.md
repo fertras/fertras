@@ -1,18 +1,26 @@
 ### Hi! I'm Fernando 👋
 
-I’m currently learning python [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) 
+I am starting in my software development career :rocket:
+
+I am currently learning about ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) and a little of ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) / ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6), my goal is to know the fundamentals of these topics and specialize in data science. 
+
+I would like to learn a little about iOS in the future
+
+I’m currently learning python  
 
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftrasvent&show_icons=true&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
-<a href="https://github.com/ftrasvent/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftrasvent&repo=github-readme-stats" />
+<a href="https://twitter.com/ftrasvent">
+  <img align="left" alt="Fernando's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/ftrasvent/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftrasvent&repo=convoychat" />
+<a href="https://www.linkedin.com/in/ftrasvent/">
+  <img align="left" alt="Fernando's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://github.com/ftrasvent">
+  <img align="left" alt="Fernando's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <!--
 **ftrasvent/ftrasvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
