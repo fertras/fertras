@@ -20,7 +20,6 @@
 🤓 My goal is to know the fundamentals of these topics and specialize in Data Science 
 
 ---
-
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftrasvent&show_icons=true&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
