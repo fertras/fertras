@@ -4,10 +4,9 @@ I’m currently learning python [<img src="https://raw.githubusercontent.com/git
 
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftrasvent&show_icons=true&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent)](https://github.com/ftrasvent/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
-[![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftrasvent)](https://github.com/ftrasvent/github-readme-stats)
-
+[![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
 <!--
 **ftrasvent/ftrasvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
