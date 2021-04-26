@@ -1,14 +1,14 @@
-### Hi! I'm Fernando 👋
+### Hi! I'm Fernando 🙌
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ftrasvent)](https://www.linkedin.com/in/ftrasvent)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/ftrasvent)](https://twitter.com/ftrasvent)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white&link=https://github.com/ftrasvent)](https://github.com/ftrasvent)
 ---
 
-I am starting in my **Software Development** career 🚀
+🚀 I'm starting in my **Software Development** career 
 
 
-👨‍💻 I am currently learning about: 
+👨‍💻 I'm currently learning about: 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
