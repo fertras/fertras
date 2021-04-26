@@ -6,7 +6,12 @@ I’m currently learning python [<img src="https://raw.githubusercontent.com/git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
 
-[![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
+<a href="https://github.com/ftrasvent/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftrasvent&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/ftrasvent/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ftrasvent&repo=convoychat" />
+</a>
 
 <!--
 **ftrasvent/ftrasvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
