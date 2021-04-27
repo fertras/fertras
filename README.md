@@ -6,14 +6,18 @@
 ---
 
 🚀 I'm starting in my **Software Development** career 
+
 ✔️ My current job is a PreSales Engineer 
+
 👨‍💻 I'm learning about: 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+
 🤔 I would like to learn a little about 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![iOS Badge](https://img.shields.io/badge/iOS-000000?style=plastic&logo=Apple&logoColor=white)
+
 🤓 My goal is to know the fundamentals of these topics and specialize in Data Science 
 
 ---
