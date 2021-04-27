@@ -7,6 +7,8 @@
 
 🚀 I'm starting in my **Software Development** career 
 
+✔️ My current job is a PreSales Engineer 
+
 
 👨‍💻 I'm currently learning about: 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)
@@ -20,14 +22,17 @@
 🤓 My goal is to know the fundamentals of these topics and specialize in Data Science 
 
 ---
-[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftrasvent&show_icons=true&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
+[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftrasvent&show_icons=true&theme=dark)](https://github.com/ftrasvent/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=dark)](https://github.com/ftrasvent/github-readme-stats)
 
-[![Fernando's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ftrasvent&theme=algolia)](https://github.com/ftrasvent/github-readme-streak-stats)
+[![Fernando's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ftrasvent&theme=dark)](https://github.com/ftrasvent/github-readme-streak-stats)
 
 ---
 <!--
+
+[![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftrasvent)](https://github.com/ftrasvent/github-readme-stats)
+
 **ftrasvent/ftrasvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
