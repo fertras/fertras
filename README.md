@@ -21,18 +21,18 @@
 🤓 My goal is to know the fundamentals of these topics and specialize in Data Science.
 
 ---
-[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftrasvent&show_icons=true&theme=dark)](https://github.com/ftrasvent/github-readme-stats)
+[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fertras&show_icons=true&theme=dark)](https://github.com/fertras/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftrasvent&theme=dark)](https://github.com/ftrasvent/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fertras&theme=dark)](https://github.com/fertras/github-readme-stats)
 
-[![Fernando's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ftrasvent&theme=dark)](https://github.com/ftrasvent/github-readme-streak-stats)
+[![Fernando's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fertras&theme=dark)](https://github.com/fertras/github-readme-streak-stats)
 
 ---
 <!--
 
-[![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ftrasvent)](https://github.com/ftrasvent/github-readme-stats)
+[![Fernando's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fertras)](https://github.com/fertras/github-readme-stats)
 
-**ftrasvent/ftrasvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fertras/fertras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
